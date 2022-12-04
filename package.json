@@ -1,0 +1,18 @@
+{
+	"author": "Anne Lee",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"framer": {
+		"authorId": "b3a21181-c4c8-4296-a5aa-d6ce34e6d49c",
+		"webId": "8xC9LX04ZnCTHyzYTm4w",
+		"id": "6e3a40fe-cf0d-4420-986a-efd24cb86fdb"
+	},
+	"license": "MIT",
+	"main": "dist/index.js",
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"dependencies": {}
+}

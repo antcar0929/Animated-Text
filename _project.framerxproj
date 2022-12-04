@@ -1,0 +1,157 @@
+{
+  "files" : {
+    ".backups/2019-10-28 11.21.11.zip" : {
+      "sha1" : "oCXMmJVN1rKycHkeXpaSbuYgmIQ=",
+      "size" : 34908
+    },
+    ".backups/2019-11-07 09.11.57.zip" : {
+      "sha1" : "TxCOztYjtW5gwbiiJ48SPh8zeDI=",
+      "size" : 34915
+    },
+    ".backups/2019-11-07 09.12.57.zip" : {
+      "sha1" : "MkWbrA3aRI1AuhHVtf4BfHxKf6c=",
+      "size" : 34923
+    },
+    ".backups/2019-11-07 09.13.57.zip" : {
+      "sha1" : "RUfqkeNynuxpY+7FOB8COhbwjeA=",
+      "size" : 34938
+    },
+    ".backups/2019-11-07 09.14.57.zip" : {
+      "sha1" : "C/U6RHTuZD4ynKOUI2Xb4KkZbwc=",
+      "size" : 34946
+    },
+    ".backups/2019-11-07 09.15.57.zip" : {
+      "sha1" : "NXvSfEJpmuUkFMGi4svFurKOM90=",
+      "size" : 34946
+    },
+    ".backups/2019-11-07 09.16.58.zip" : {
+      "sha1" : "x73DnGq0Iamz70ZBXoODksm8TmU=",
+      "size" : 34954
+    },
+    ".gitignore" : {
+      "sha1" : "AzoScG0oHgOvQDz8b8ZJSI9u/CQ=",
+      "size" : 152
+    },
+    ".yarnignore" : {
+      "sha1" : "4SLhRnyg+tD/+ndNXdsmdpsl0qY=",
+      "size" : 66
+    },
+    "build/index.js" : {
+      "sha1" : "OE4HkUfgcvaWEci3eWCN+cQT654=",
+      "size" : 165222
+    },
+    "build/vendors.js" : {
+      "sha1" : "Dz3nuSktbI2q4SgIrvMXX8dzEBs=",
+      "size" : 405
+    },
+    "code/1. Middle Reveal_Loop.tsx" : {
+      "sha1" : "ZJoR1iIAGiMYRQ1pO1PiRiQ5OmY=",
+      "size" : 3955
+    },
+    "code/1. Middle Reveal.tsx" : {
+      "sha1" : "V4NVbls7e5m/km5rdJMY63Cu9AQ=",
+      "size" : 3975
+    },
+    "code/2. Background_Loop.tsx" : {
+      "sha1" : "BeG3WcNq2H80ZIx0On3y8P9lAAg=",
+      "size" : 3832
+    },
+    "code/2. Background.tsx" : {
+      "sha1" : "xPstW61qFzbQCy/2avf/ykSI1Nc=",
+      "size" : 3909
+    },
+    "code/3. Top Reveal_Loop.tsx" : {
+      "sha1" : "Qb4tfVtee9R8M+Q5QQdmuIe73UU=",
+      "size" : 5178
+    },
+    "code/3. Top Reveal.tsx" : {
+      "sha1" : "dXMeeSq2ZHcD9IXFrCF57pFX2iw=",
+      "size" : 5566
+    },
+    "code/4. Jump_Loop.tsx" : {
+      "sha1" : "cs55e+8LfyIOsJvyq4YZnWkL4Cw=",
+      "size" : 3117
+    },
+    "code/4. Jump.tsx" : {
+      "sha1" : "Q9ZP75N4dEq+xcTHdxuHncWFbns=",
+      "size" : 3501
+    },
+    "code/5. Color.tsx" : {
+      "sha1" : "Mminq3df01A4VRxmZPYU+y6DXhk=",
+      "size" : 2783
+    },
+    "code/6. Blur_Loop.tsx" : {
+      "sha1" : "9tSzCRo0vP9HZCw3VZh/plBtrt8=",
+      "size" : 3778
+    },
+    "code/6. Blur.tsx" : {
+      "sha1" : "entmVAuYOP8YcxfXqt0aCCzSZ60=",
+      "size" : 3798
+    },
+    "code/7. Rotate_Loop.tsx" : {
+      "sha1" : "MCoHsr/FylcG1O2q3NtWwfpkhhE=",
+      "size" : 3551
+    },
+    "code/7. Rotate.tsx" : {
+      "sha1" : "GxcO8lvULweEI2IGaPqihbE/K60=",
+      "size" : 3691
+    },
+    "code/8. Fly_Loop.tsx" : {
+      "sha1" : "zOMBkT16FHVAiZALGna2QRgkAGs=",
+      "size" : 4123
+    },
+    "code/8. Fly.tsx" : {
+      "sha1" : "2eClo2P7rUz1Pu1GJ9HE0cSaQGY=",
+      "size" : 4148
+    },
+    "code/9. Glitch_Loop.tsx" : {
+      "sha1" : "t6OhFv2zPGrvaSApamhpac6TAPw=",
+      "size" : 3991
+    },
+    "code/9. Glitch.tsx" : {
+      "sha1" : "gndAtRIZX388QSh+gHvE6PXnLoE=",
+      "size" : 3704
+    },
+    "code/10. Word_Loop.tsx" : {
+      "sha1" : "rxiLgg9t8sBZ4KmvbiHyHkiX1UE=",
+      "size" : 4072
+    },
+    "code/10. Word.tsx" : {
+      "sha1" : "SQr+mIMZb4/ZCQs4rv/+zUCUDFY=",
+      "size" : 4205
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "design/document.json" : {
+      "sha1" : "UIJ8qvyQ0KELCGpg/fRDyvrVM3Y=",
+      "size" : 212893
+    },
+    "package.json" : {
+      "sha1" : "nMbbuymuA2vGoH1TSXV1q3888Pk=",
+      "size" : 363
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "server.log" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "treeUpdates.json" : {
+      "sha1" : "l9Fw4VUO7kr8CvBlt4zaMCqXZ0w=",
+      "size" : 2
+    },
+    "tsconfig.json" : {
+      "sha1" : "SdmzWRfeZvULVchW1E8DFxKSyZ8=",
+      "size" : 344
+    },
+    "yarn.lock" : {
+      "sha1" : "krMIDxzm4tdER1FrCnbw0yEtoG4=",
+      "size" : 945
+    }
+  },
+  "uuid" : "DA3DE952-CB0A-4257-ADB0-E8C27146E4F4"
+}
